@@ -1,4 +1,4 @@
-/* Promila Agarwal */
+#Promila Agarwal #
 lst = [1, 0, 4, 9]
 target = 13
 
